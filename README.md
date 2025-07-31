@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I use this space to showcase my projects and cours
 ---
 ## 🌐 My Portfolio Website
 
-You can view my curated portfolio, which showcases my skills and key projects, at the following link:
+You can view my website, at the following link:
 
 ### [**https://nabicook.github.io/**](https://nabicook.github.io/)
 
@@ -20,7 +20,7 @@ This repository contains a collection of my coursework from my Computer Informat
 [**Explore my CIS Projects &rarr;**](https://github.com/NabiCook/CIS-School-Work)
 
 ### 🔒 Coursera Cybersecurity Works
-Here you'll find my work from the Google Cybersecurity Professional Certificate, including Python scripts for automation, Linux/SQL commands, and security analysis reports.
+Here you'll find my work from the Google Cybersecurity Professional Certificate.
 
 [**Explore my Cybersecurity Projects &rarr;**](https://github.com/NabiCook/coursera-works)
 
