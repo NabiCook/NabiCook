@@ -1,8 +1,4 @@
-# Hi, I'm Nabi! 👋
-
-I'm currently building **PaladinsCat**, a community-focused intelligence and analytics platform for Paladins. It tracks account and match patterns—including suspected cheating, private profiles, and disruptive behavior—to help players protect the competitive community with data-driven evidence rather than rumors.
-
-## 🐈 PaladinsCat
+# 🐈 PaladinsCat
 
 <p align="center">
   <a href="https://paladinscat.com/">
@@ -16,13 +12,13 @@ I'm currently building **PaladinsCat**, a community-focused intelligence and ana
 - [**View releases and technical write-ups →**](https://github.com/NabiCook/PaladinsCat)
 - [**Explore the localization repository →**](https://github.com/NabiCook/PaladinsCat-locales)
 
-### What it does
+## What it does
 
 PaladinsCat turns raw Paladins match data into evidence players can inspect. Its core purpose is to track accounts associated with suspected cheating or repeated harmful behavior, preserve relevant activity even when profiles are private, and reveal patterns that may be damaging the competitive community.
 
 The platform brings match histories, player profiles, champion statistics, and account signals together so players can make informed decisions based on documented activity—not hearsay. It provides evidence for community awareness while leaving room for careful human judgment.
 
-### Founding breakthrough: solving a long-standing data corruption issue
+## Founding breakthrough: solving a long-standing data corruption issue
 
 PaladinsCat began development in **May 2026** while investigating a skin ID corruption issue that had been known for more than five years but remained unaddressed. The investigation traced missing and incorrect skin information to a silent signed 16-bit integer overflow and identified **31 affected skins across 20 champions** whose IDs had crossed the `32,767` limit.
 
@@ -30,7 +26,7 @@ That finding became PaladinsCat's first major technical breakthrough and the sta
 
 [**Read the investigation, published July 2026 →**](https://github.com/NabiCook/PaladinsCat/blob/main/docs/blog/skin-id-overflow.md)
 
-### Why it stands out
+## Why it stands out
 
 - **Evidence over accusation:** account concerns are supported by inspectable match and activity data rather than rumors alone.
 - **Community accountability:** the platform is built to identify patterns associated with suspected cheating and behavior that harms the competitive environment.
@@ -42,15 +38,15 @@ That finding became PaladinsCat's first major technical breakthrough and the sta
 
 ---
 
-## 📚 Background & Earlier Work
+# 📚 Background & Earlier Work
 
-### 🎓 Computer Information Systems
+## 🎓 Computer Information Systems
 
 A collection of coursework demonstrating experience with C#, ASP.NET, and database design.
 
 [**Explore my CIS projects →**](https://github.com/NabiCook/CIS-School-Work)
 
-### 🔒 Cybersecurity
+## 🔒 Cybersecurity
 
 Activities and assignments completed through the Google Cybersecurity Professional Certificate on Coursera.
 
